@@ -10,5 +10,8 @@
 
 Workflow AI dapat diterapkan di berbagai bidang seperti otomasi bisnis, analisis data, pengenalan pola, dan pengambilan keputusan berbasis AI.
 
-# RUN CODE
-***python nama_file.py***
+## RUN CODE
+
+```bash
+python nama_file.py
+```
